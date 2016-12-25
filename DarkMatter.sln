@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkMatter.Browser", "DarkMatter.Browser\DarkMatter.Browser.csproj", "{C16E882F-C180-4871-BA6B-7FDCFBA89CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkMatter", "DarkMatter\DarkMatter.csproj", "{56FCC7D3-BB84-4A69-9136-EDAC602A1F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkMatter.Console", "DarkMatter.Console\DarkMatter.Console.csproj", "{0E410014-DAA5-4983-98EC-5FFA36BE2F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkMatterTests", "DarkMatterTests\DarkMatterTests.csproj", "{6B1DB248-992A-4B33-A75F-8A36603AFB7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16E882F-C180-4871-BA6B-7FDCFBA89CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16E882F-C180-4871-BA6B-7FDCFBA89CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16E882F-C180-4871-BA6B-7FDCFBA89CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16E882F-C180-4871-BA6B-7FDCFBA89CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FCC7D3-BB84-4A69-9136-EDAC602A1F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FCC7D3-BB84-4A69-9136-EDAC602A1F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FCC7D3-BB84-4A69-9136-EDAC602A1F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FCC7D3-BB84-4A69-9136-EDAC602A1F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E410014-DAA5-4983-98EC-5FFA36BE2F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E410014-DAA5-4983-98EC-5FFA36BE2F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E410014-DAA5-4983-98EC-5FFA36BE2F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E410014-DAA5-4983-98EC-5FFA36BE2F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1DB248-992A-4B33-A75F-8A36603AFB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1DB248-992A-4B33-A75F-8A36603AFB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1DB248-992A-4B33-A75F-8A36603AFB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1DB248-992A-4B33-A75F-8A36603AFB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

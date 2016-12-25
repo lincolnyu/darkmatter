@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DarkMatter/bin/Debug
+/DarkMatter.Browser/obj/Debug
+/DarkMatter/obj/Debug
+/DarkMatter.Browser/bin/Debug
+/DarkMatter.Console/obj/Debug
+/DarkMatter.Console/bin/Debug
+/DarkMatter.v12.suo
+*.suo
+/DarkMatterTests/obj/Debug
